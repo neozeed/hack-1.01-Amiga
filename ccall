@@ -1,0 +1,117 @@
+stack 10000
+lc1 -ii: -cw -oram: hack.window
+lc2 -v -ohack_source: ram:hack.window
+lc1 -ii: -cw -oram: hack.icon
+lc2 -v -ohack_source: ram:hack.icon
+lc1 -ii: -cw -oram: unixxface
+lc2 -v -ohack_source: ram:unixxface
+lc1 -ii: -cw -oram: -dTINY _main
+lc2 -v -ohack_source: ram:-dTINY _main
+lc1 -ii: -cw -oram: hack.save
+lc2 -v -ohack_source: ram:hack.save
+lc1 -ii: -cw -oram: hack.trap
+lc2 -v -ohack_source: ram:hack.trap
+lc1 -ii: -cw -oram: hack
+lc2 -v -ohack_source: ram:hack
+lc1 -ii: -cw -oram: hack.rumors
+lc2 -v -ohack_source: ram:hack.rumors
+lc1 -ii: -cw -oram: hack.end
+lc2 -v -ohack_source: ram:hack.end
+lc1 -ii: -cw -oram: hack.apply
+lc2 -v -ohack_source: ram:hack.apply
+lc1 -ii: -cw -oram: hack.o_init
+lc2 -v -ohack_source: ram:hack.o_init
+lc1 -ii: -cw -oram: hack.mhitu
+lc2 -v -ohack_source: ram:hack.mhitu
+lc1 -ii: -cw -oram: hack.worm
+lc2 -v -ohack_source: ram:hack.worm
+lc1 -ii: -cw -oram: hack.do
+lc2 -v -ohack_source: ram:hack.do
+lc1 -ii: -cw -oram: hack.pri
+lc2 -v -ohack_source: ram:hack.pri
+lc1 -ii: -cw -oram: hack.invent
+lc2 -v -ohack_source: ram:hack.invent
+lc1 -ii: -cw -oram: hack.wield
+lc2 -v -ohack_source: ram:hack.wield
+lc1 -ii: -cw -oram: hack.version
+lc2 -v -ohack_source: ram:hack.version
+lc1 -ii: -cw -oram: hack.u_init
+lc2 -v -ohack_source: ram:hack.u_init
+lc1 -ii: -cw -oram: hack.vault
+lc2 -v -ohack_source: ram:hack.vault
+lc1 -ii: -cw -oram: hack.dog
+lc2 -v -ohack_source: ram:hack.dog
+lc1 -ii: -cw -oram: hack.eat
+lc2 -v -ohack_source: ram:hack.eat
+lc1 -ii: -cw -oram: hack.timeout
+lc2 -v -ohack_source: ram:hack.timeout
+lc1 -ii: -cw -oram: rnd
+lc2 -v -ohack_source: ram:rnd
+lc1 -ii: -cw -oram: hack.options
+lc2 -v -ohack_source: ram:hack.options
+lc1 -ii: -cw -oram: hack.cmdlist
+lc2 -v -ohack_source: ram:hack.cmdlist
+lc1 -ii: -cw -oram: qsort
+lc2 -v -ohack_source: ram:qsort
+lc1 -ii: -cw -oram: hack.zap
+lc2 -v -ohack_source: ram:hack.zap
+lc1 -ii: -cw -oram: hack.do_wear
+lc2 -v -ohack_source: ram:hack.do_wear
+lc1 -ii: -cw -oram: mklv.shk
+lc2 -v -ohack_source: ram:mklv.shk
+lc1 -ii: -cw -oram: hack.objnam
+lc2 -v -ohack_source: ram:hack.objnam
+lc1 -ii: -cw -oram: hack.worn
+lc2 -v -ohack_source: ram:hack.worn
+lc1 -ii: -cw -oram: hack.lev
+lc2 -v -ohack_source: ram:hack.lev
+lc1 -ii: -cw -oram: hack.shk
+lc2 -v -ohack_source: ram:hack.shk
+lc1 -ii: -cw -oram: hack.whatis
+lc2 -v -ohack_source: ram:hack.whatis
+lc1 -ii: -cw -oram: hack.bones
+lc2 -v -ohack_source: ram:hack.bones
+lc1 -ii: -cw -oram: hack.read
+lc2 -v -ohack_source: ram:hack.read
+lc1 -ii: -cw -oram: hack.Decl
+lc2 -v -ohack_source: ram:hack.Decl
+lc1 -ii: -cw -oram: hack.search
+lc2 -v -ohack_source: ram:hack.search
+lc1 -ii: -cw -oram: hack.do_name
+lc2 -v -ohack_source: ram:hack.do_name
+lc1 -ii: -cw -oram: mklev
+lc2 -v -ohack_source: ram:mklev
+lc1 -ii: -cw -oram: mklv.makemaz
+lc2 -v -ohack_source: ram:mklv.makemaz
+lc1 -ii: -cw -oram: hack.main
+lc2 -v -ohack_source: ram:hack.main
+lc1 -ii: -cw -oram: alloc
+lc2 -v -ohack_source: ram:alloc
+lc1 -ii: -cw -oram: hack.fight
+lc2 -v -ohack_source: ram:hack.fight
+lc1 -ii: -cw -oram: hack.tty
+lc2 -v -ohack_source: ram:hack.tty
+lc1 -ii: -cw -oram: hack.engrave
+lc2 -v -ohack_source: ram:hack.engrave
+lc1 -ii: -cw -oram: hack.mon
+lc2 -v -ohack_source: ram:hack.mon
+lc1 -ii: -cw -oram: hack.rip
+lc2 -v -ohack_source: ram:hack.rip
+lc1 -ii: -cw -oram: hack.topl
+lc2 -v -ohack_source: ram:hack.topl
+lc1 -ii: -cw -oram: hack.mkobj
+lc2 -v -ohack_source: ram:hack.mkobj
+lc1 -ii: -cw -oram: hack.monst
+lc2 -v -ohack_source: ram:hack.monst
+lc1 -ii: -cw -oram: savelev
+lc2 -v -ohack_source: ram:savelev
+lc1 -ii: -cw -oram: hack.stat
+lc2 -v -ohack_source: ram:hack.stat
+lc1 -ii: -cw -oram: hack.steal
+lc2 -v -ohack_source: ram:hack.steal
+lc1 -ii: -cw -oram: mklv.shknam
+lc2 -v -ohack_source: ram:mklv.shknam
+lc1 -ii: -cw -oram: hack.makemon
+lc2 -v -ohack_source: ram:hack.makemon
+lc1 -ii: -cw -oram: hack.track
+lc2 -v -ohack_source: ram:hack.track
